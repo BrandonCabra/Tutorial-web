@@ -7,3 +7,14 @@ p{
 body{
     background-color: cornflowerblue;
 }
+.descripcion {
+    font-weight: bold;
+    color: brown;
+}
+.especial{
+    background-color: aqua;
+}
+#enunciado{
+    background-color: azure;
+    text-align: center;
+}
